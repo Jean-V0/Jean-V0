@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Jean Roque 👋
 
-<!--
-**Jean-V0/Jean-V0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer | Software Engineer | AWS Certified Cloud Practitioner**
 
-Here are some ideas to get you started:
+Sou apaixonado por infraestrutura, automação, computação em nuvem e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo profissionalmente com DevOps, Platform Engineering e Cloud, mas continuo desenvolvendo projetos de software por hobby e em trabalhos freelancer, principalmente utilizando Go, Rust, C++, Python e TypeScript.
+
+## 🚀 Principais tecnologias
+
+### DevOps & Cloud
+
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- Ansible
+- Linux
+- GitHub Actions
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+### Desenvolvimento
+
+- Go
+- Rust
+- C++
+- Python
+- TypeScript
+- PHP
+
+## ⭐ Projetos
+
+- Production-Ready Kubernetes Platform
+- Cloud-Native Observability Platform
+- Production-Grade AWS Infrastructure
+
+## 📝 Conteúdo
+
+Compartilho artigos técnicos sobre DevOps, Cloud, Kubernetes, Observabilidade, Linux e Engenharia de Software.
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/seu-linkedin
