@@ -42,4 +42,4 @@ Compartilho artigos técnicos sobre DevOps, Cloud, Kubernetes, Observabilidade, 
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/seu-linkedin
+- LinkedIn: https://www.linkedin.com/in/jean-roque-579a48348/
