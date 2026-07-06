@@ -32,9 +32,9 @@ Atuo profissionalmente com DevOps, Platform Engineering e Cloud, mas continuo de
 
 ## ⭐ Projetos
 
-- Production-Ready Kubernetes Platform
-- Cloud-Native Observability Platform
-- Production-Grade AWS Infrastructure
+- Production-Ready Kubernetes Platform ( Em desenvolvimento )
+- Cloud-Native Observability Platform ( Em desenvolvimento )
+- Production-Grade AWS Infrastructure ( Em desenvolvimento )
 
 ## 📝 Conteúdo
 
